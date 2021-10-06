@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I am Deepak PAL</h1>
+<h1 align="center">Hello there 👋 , I am Deepak PAL</h1>
 
 <!--
 **deepakpal9046/deepakpal9046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

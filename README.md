@@ -2,7 +2,7 @@
 
 I write code to develop software solutions which are helping everyone including me to ease our work. I am a life time learner. I love to meet and interact like minded people across the globe. Say Hi to me and we never know what next software solution we can build together.
 
-- <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  Organiser at [Azure Developer Community - Mumbai & Kanpur](https://azdev.konfhub.com)
+- <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  Organiser & Speaker at [Azure Developer Community - Mumbai & Kanpur](https://azdev.konfhub.com)
 
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!--START_SECTION:badges-->

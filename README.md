@@ -8,7 +8,6 @@ I write code to develop software solutions which are helping everyone including 
 <!--START_SECTION:badges-->
 
 [![Azure Fundamentals](https://images.credly.com/size/110x110/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)](https://www.credly.com/badges/6b9d3f89-b0e3-4772-b0a8-8b5ebe2f3cff/public_url "Azure Fundamentals")
-
 [![BNP Paribas Cloud 101](https://images.credly.com/size/110x110/images/eba07308-7a9e-40b4-a72a-fe9b1a226337/Draft_Cloud_101__3_.png)](https://www.credly.com/badges/2518890b-e0a9-4125-b3ef-a0b2f8d428fa/public_url "BNP Paribas Cloud 101")
 
 <!--END_SECTION:badges-->
